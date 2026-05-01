@@ -65,7 +65,7 @@ SOTP at ₹375 is the most grounded method.
 DCF gap vs SOTP traces to one assumption — reinvestment rate.
 Peer comps overstate value due to tobacco-free multiples.
 
-![Football Field](outputs/01_football_field_valuation_summary_itc.png)
+![Football Field](outputs/01_football_field_valuation_summary.png)
 
 ---
 
